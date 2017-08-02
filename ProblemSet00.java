@@ -20,4 +20,7 @@ public class ProblemSet00
 
 	public static void marioPyramid()
 	{}
+	
+	public static void fourOneOne()
+	{}
 }
