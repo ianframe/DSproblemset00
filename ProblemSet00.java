@@ -12,9 +12,6 @@ public class ProblemSet00
 	public static void helloWorld()
 	{}
 
-	public static void pokemon()
-	{}
-
 	public static void triangularNumbers()
 	{}
 
@@ -22,5 +19,8 @@ public class ProblemSet00
 	{}
 	
 	public static void fourOneOne()
+	{}
+	
+	public static void pokemon()
 	{}
 }
