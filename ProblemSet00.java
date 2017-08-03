@@ -2,6 +2,7 @@ import java.io.File;
 import java.io.FileReader;
 import java.io.BufferedReader;
 import java.lang.Exception;
+import java.util.Scanner;
 
 /*
 *	Note that because you are working with different text files for each problem,
