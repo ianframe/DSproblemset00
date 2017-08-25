@@ -1,6 +1,4 @@
 import java.io.File;
-import java.io.FileReader;
-import java.io.BufferedReader;
 import java.lang.Exception;
 import java.util.Scanner;
 
@@ -10,18 +8,18 @@ import java.util.Scanner;
 */	
 public class ProblemSet00
 {
-	public static void helloWorld()
+	public static void helloWorld() throws Exception
 	{}
 
-	public static void triangularNumbers()
+	public static void triangularNumbers() throws Exception
 	{}
 
-	public static void marioPyramid()
+	public static void marioPyramid() throws Exception
 	{}
 	
-	public static void fourOneOne()
+	public static void fourOneOne() throws Exception
 	{}
 	
-	public static void pokemon()
+	public static void pokemon() throws Exception
 	{}
 }
